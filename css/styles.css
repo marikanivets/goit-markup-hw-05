@@ -857,3 +857,7 @@ border: 1px solid rgba(46, 47, 66, 0.4);
 .modal-check:focus+.modal-check-label .check-mark {
     border-color: #404bbf;
 }
+
+.modal-field-textarea {
+    margin-bottom: 16px;
+}
